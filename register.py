@@ -1,5 +1,4 @@
 import face_recognition
-import cv2
 import pickle
 from utils import save_face
 
